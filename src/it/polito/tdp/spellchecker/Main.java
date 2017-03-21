@@ -1,4 +1,4 @@
-package it.polito.tdp.SpellChecker;
+package it.polito.tdp.spellchecker;
 	
 import javafx.application.Application;
 import javafx.stage.Stage;
